@@ -51,6 +51,7 @@
 
 <br />
 
+<!-- 
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -70,6 +71,7 @@
 </div>
 
 <br />
+-->
 
 ## 📫 Contact
 
