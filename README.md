@@ -4,8 +4,6 @@
   <p><i>Building scalable backend systems and exploring the world of Artificial Intelligence.</i></p>
 </div>
 
-<br />
-
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently passionate about **Java, Backend Development, and AI**
@@ -13,8 +11,6 @@
 - 🏗️ I’m actively building **real-world projects** to strengthen my software engineering skills
 - 💼 I’m looking for roles in **Software Development, AI, and Backend Engineering**
 - 📍 Based in **Andhra Pradesh, India**
-
-<br />
 
 ## 🛠️ Tech Stack
 
@@ -37,8 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<br />
-
 ## 🚀 Featured Projects
 
 - 🧠 **AI Codebase Assistant** 
@@ -49,8 +43,6 @@
 
 *(Tip: You can add links to the repositories for each project above!)*
 
-<br />
-
 <!-- 
 ## 📊 GitHub Analytics
 
@@ -58,19 +50,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VamsiUkkusuri8854&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiUkkusuri8854&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<br />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiUkkusuri8854&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
-<br />
 -->
 
 ## 📫 Contact
