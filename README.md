@@ -17,23 +17,16 @@
 
 ## 🌌 About Me
 
+- 🔭 I’m passionate about **Java, Backend Development, and AI**
+- 🌱 Currently learning **Data Structures, Algorithms, System Design, and RAG**
+- 🏗️ Actively building **real-world projects** to strengthen my skills
+- 💼 Looking for roles in **Software Development, AI, and Backend Engineering**
+- 📍 Based in **Andhra Pradesh, India**
+
+<br/>
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="55%">
-        <ul>
-          <li>🔭 I’m passionate about <b>Java, Backend Development, and AI</b></li>
-          <li>🌱 Currently learning <b>Data Structures, Algorithms, System Design, and RAG</b></li>
-          <li>🏗️ Actively building <b>real-world projects</b> to strengthen my skills</li>
-          <li>💼 Looking for roles in <b>Software Development, AI, and Backend Engineering</b></li>
-          <li>📍 Based in <b>Andhra Pradesh, India</b></li>
-        </ul>
-      </td>
-      <td width="45%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiUkkusuri8854&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiUkkusuri8854&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -95,8 +88,14 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VamsiUkkusuri8854&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiUkkusuri8854&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamsiUkkusuri8854&bg_color=0D1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VamsiUkkusuri8854&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiUkkusuri8854&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
