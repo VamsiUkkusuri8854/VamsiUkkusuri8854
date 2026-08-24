@@ -13,10 +13,10 @@
 
 ## 🌌 About Me
 
-- 🔭 I’m passionate about **Java, Backend Development, and AI**
-- 🌱 Currently learning **Data Structures, Algorithms, System Design, and RAG**
-- 🏗️ Actively building **real-world projects** to strengthen my skills
-- 💼 Looking for roles in **Software Development, AI, and Backend Engineering**
+- 🎯 **Java Backend Developer** with strong DSA and System Design skills
+- 🌱 Currently learning **AI, RAG**, and building intelligent applications
+- 💡 Love turning ideas into **real-world products**
+- 🚀 Always exploring new technologies and improving everyday
 - 📍 Based in **Andhra Pradesh, India**
 
 
@@ -56,11 +56,21 @@
       <td width="50%">
         <h3 align="center">🧠 AI Codebase Assistant</h3>
         <p align="center">AI-powered assistant for codebase understanding and navigation.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/-RAG-8A2BE2?style=flat" />
+          <img src="https://img.shields.io/badge/-FAISS-000000?style=flat" />
+        </p>
         <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logoColor=white"/></a></p>
       </td>
       <td width="50%">
         <h3 align="center">🗳️ Online Voting System</h3>
         <p align="center">Secure and transparent voting platform.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        </p>
         <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-16A34A?style=for-the-badge&logoColor=white"/></a></p>
       </td>
     </tr>
@@ -68,11 +78,21 @@
       <td width="50%">
         <h3 align="center">🛒 Scalable E-Commerce</h3>
         <p align="center">Full-stack e-commerce solution with backend scalability.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        </p>
         <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-EA580C?style=for-the-badge&logoColor=white"/></a></p>
       </td>
       <td width="50%">
         <h3 align="center">📊 Smart DSA Tracker</h3>
         <p align="center">Dashboard to track and analyze DSA progress.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        </p>
         <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-9333EA?style=for-the-badge&logoColor=white"/></a></p>
       </td>
     </tr>
