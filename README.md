@@ -101,7 +101,15 @@
 
 <br/>
 
-## 📈 Real-Time GitHub Stats
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/VamsiUkkusuri8854">
+    <img src="https://ghchart.rshah.org/39d353/VamsiUkkusuri8854" alt="Contribution Graph" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/VamsiUkkusuri8854">
