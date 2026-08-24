@@ -24,31 +24,26 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center" width="33%">
-        <h3 align="center">💻 Languages</h3>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=3&theme=light" alt="Languages" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <h3 align="center">⚙️ Frameworks & DB</h3>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&perline=2&theme=light" alt="Frameworks" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <h3 align="center">🛠️ Tools</h3>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,postman,docker&perline=2&theme=light" alt="Tools" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+  <h3>💻 Languages & Core</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <h3>⚙️ Frameworks & DB</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&theme=light" alt="Frameworks" />
+  </a>
+  
+  <br/><br/>
+  
+  <h3>🛠️ Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" alt="Tools" />
+  </a>
+  
 </div>
 
 <br/>
