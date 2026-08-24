@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <p><i>Building scalable backend systems and exploring the world of Artificial Intelligence.</i></p>
   <br/>
-  <a href="mailto:vamsiukkusuri@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://github.com/VamsiUkkusuri8854"><img src="https://img.shields.io/badge/Follow%20Me-GitHub-00f2fe?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="mailto:vamsiukkusuri@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email" /></a>
+  <a href="https://github.com/VamsiUkkusuri8854"><img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
 </div>
 
 <br/>
@@ -54,24 +54,24 @@
       <td width="50%">
         <h3 align="center">🧠 AI Codebase Assistant</h3>
         <p align="center">AI-powered assistant for codebase understanding and navigation.</p>
-        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-00f2fe?style=for-the-badge&labelColor=0d1117&logoColor=black"/></a></p>
+        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logoColor=white"/></a></p>
       </td>
       <td width="50%">
         <h3 align="center">🗳️ Online Voting System</h3>
         <p align="center">Secure and transparent voting platform.</p>
-        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-00f2fe?style=for-the-badge&labelColor=0d1117&logoColor=black"/></a></p>
+        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-16A34A?style=for-the-badge&logoColor=white"/></a></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <h3 align="center">🛒 Scalable E-Commerce</h3>
         <p align="center">Full-stack e-commerce solution with backend scalability.</p>
-        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-00f2fe?style=for-the-badge&labelColor=0d1117&logoColor=black"/></a></p>
+        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-EA580C?style=for-the-badge&logoColor=white"/></a></p>
       </td>
       <td width="50%">
         <h3 align="center">📊 Smart DSA Tracker</h3>
         <p align="center">Dashboard to track and analyze DSA progress.</p>
-        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-00f2fe?style=for-the-badge&labelColor=0d1117&logoColor=black"/></a></p>
+        <p align="center"><a href="https://github.com/VamsiUkkusuri8854?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-9333EA?style=for-the-badge&logoColor=white"/></a></p>
       </td>
     </tr>
   </table>
