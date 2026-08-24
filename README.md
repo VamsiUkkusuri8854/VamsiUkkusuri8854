@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FE&background=0D1117&center=true&vCenter=true&width=800&height=220&lines=%3E+System.out.println(%22Hello+World!%22);%3E+I'm+Vamsi+Ukkusuri;%3E+Backend+Developer;%3E+AI+Enthusiast;%3E+Always+Learning+and+Building" alt="Terminal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=250&section=header&text=Hi%20there,%20I'm%20Vamsi!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
