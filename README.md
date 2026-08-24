@@ -28,26 +28,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-  <h3>💻 Languages & Core</h3>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,flask,mysql,mongodb,git,github,postman,docker&theme=light&perline=15" alt="Tech Stack" />
   </a>
-  
   <br/><br/>
-  
-  <h3>⚙️ Frameworks & DB</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&theme=light" alt="Frameworks" />
-  </a>
-  
-  <br/><br/>
-  
-  <h3>🛠️ Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" alt="Tools" />
-  </a>
-  
 </div>
 
 <br/>
