@@ -29,10 +29,21 @@
 
 <div align="center">
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,flask,mysql,mongodb,git,github,postman,docker&theme=light&perline=15" alt="Tech Stack" />
-  </a>
-  <br/><br/>
+  <p align="center">
+    <b>💻 Languages & Core</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Languages" /></a>
+  </p>
+  <br/>
+  <p align="center">
+    <b>⚙️ Frameworks & DB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&theme=light" alt="Frameworks" /></a>
+  </p>
+  <br/>
+  <p align="center">
+    <b>🛠️ Tools</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" alt="Tools" /></a>
+  </p>
+  <br/>
 </div>
 
 <br/>
