@@ -104,7 +104,9 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamsiUkkusuri8854&bg_color=0D1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/VamsiUkkusuri8854">
+    <img src="https://ghchart.rshah.org/39d353/VamsiUkkusuri8854" alt="Contribution Graph" />
+  </a>
 </div>
 
 
