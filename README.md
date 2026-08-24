@@ -23,13 +23,7 @@
 - 💼 Looking for roles in **Software Development, AI, and Backend Engineering**
 - 📍 Based in **Andhra Pradesh, India**
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiUkkusuri8854&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
 
 ## 🛠️ Tech Stack
 
