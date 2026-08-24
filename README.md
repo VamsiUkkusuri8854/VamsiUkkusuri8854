@@ -24,22 +24,29 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <br/>
-  <p align="center">
-    <b>💻 Languages & Core</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Languages" /></a>
-  </p>
-  <br/>
-  <p align="center">
-    <b>⚙️ Frameworks & DB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&theme=light" alt="Frameworks" /></a>
-  </p>
-  <br/>
-  <p align="center">
-    <b>🛠️ Tools</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" alt="Tools" /></a>
-  </p>
-  <br/>
+  <table>
+    <tr>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" /><br><b>Java</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" /><br><b>Python</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" /><br><b>JavaScript</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" /><br><b>HTML</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" /><br><b>CSS</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" /><br><b>Spring Boot</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" /><br><b>Flask</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" /><br><b>MySQL</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" /><br><b>MongoDB</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" /><br><b>Git</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" /><br><b>GitHub</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" /><br><b>Postman</b></td>
+      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" /><br><b>Docker</b></td>
+      <td align="center" width="20%"></td>
+      <td align="center" width="20%"></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
