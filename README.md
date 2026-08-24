@@ -26,25 +26,22 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" /><br><b>Java</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" /><br><b>Python</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" /><br><b>JavaScript</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" /><br><b>HTML</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" /><br><b>CSS</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" /><br><b>Java</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" /><br><b>Python</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" /><br><b>JavaScript</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" /><br><b>HTML</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" /><br><b>CSS</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" /><br><b>Spring Boot</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" /><br><b>Flask</b></td>
     </tr>
     <tr>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" /><br><b>Spring Boot</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" /><br><b>Flask</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" /><br><b>MySQL</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" /><br><b>MongoDB</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" /><br><b>Git</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" /><br><b>GitHub</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" /><br><b>Postman</b></td>
-      <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" /><br><b>Docker</b></td>
-      <td align="center" width="20%"></td>
-      <td align="center" width="20%"></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" /><br><b>MySQL</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" /><br><b>MongoDB</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" /><br><b>Git</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" /><br><b>GitHub</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" /><br><b>Postman</b></td>
+      <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" /><br><b>Docker</b></td>
+      <td align="center" width="14%"></td>
     </tr>
   </table>
 </div>
