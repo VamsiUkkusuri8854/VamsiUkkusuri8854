@@ -101,11 +101,14 @@
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 Real-Time GitHub Stats
 
 <div align="center">
   <a href="https://github.com/VamsiUkkusuri8854">
-    <img src="https://ghchart.rshah.org/39d353/VamsiUkkusuri8854" alt="Contribution Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VamsiUkkusuri8854&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/VamsiUkkusuri8854">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiUkkusuri8854&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
