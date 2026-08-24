@@ -85,15 +85,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamsiUkkusuri8854&bg_color=0D1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VamsiUkkusuri8854&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiUkkusuri8854&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VamsiUkkusuri8854/count.svg" alt="Profile Views" />
-</div>
