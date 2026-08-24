@@ -28,20 +28,31 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Languages" />
-  </a>
-  <br/><br/>
-  <p><strong>Frameworks & Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&theme=dark" alt="Frameworks" />
-  </a>
-  <br/><br/>
-  <p><strong>Tools & Version Control</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" alt="Tools" />
-  </a>
+  <table style="width: 100%;">
+    <tr>
+      <td align="center" width="33%">
+        <h3 align="center">💻 Languages</h3>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=3&theme=light" alt="Languages" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3 align="center">⚙️ Frameworks & DB</h3>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=spring,flask,mysql,mongodb&perline=2&theme=light" alt="Frameworks" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3 align="center">🛠️ Tools</h3>
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,postman,docker&perline=2&theme=light" alt="Tools" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
